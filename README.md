@@ -1,5 +1,6 @@
 # TCC-Computer-Science-UFRRJ
 Documentation and source code for my final project in Computer Science at the Federal Rural University of Rio de Janeiro.
+Theme: Microservices Architecture Analysis Using CQRS: Development of an E-commerce System as a Practical Example
 
 ## Microservices available in:
 ### newme-catalog: https://github.com/gabrielleraujo/newme-catalog
