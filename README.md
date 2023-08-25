@@ -9,9 +9,9 @@ Theme: Microservices Architecture Analysis Using CQRS: Development of an E-comme
 #### newme-payment: https://github.com/gabrielleraujo/newme-payment
 #### newme-client-favorites: https://github.com/gabrielleraujo/newme-client-favorites
 
-### Documentation
+### Documentation:
 Availeble at assets/doc/tcc_presentation_revised
-### C4 diagrams
+### C4 models:
 <p align="justify"><img height="900" src="./assets/img/diagrams/newme_ms_catalog.drawio.png"/></p>
 <p align="justify"><img height="900" src="./assets/img/diagrams/newme_ms_client_favorites.drawio.png"/></p>
 <p align="justify"><img height="900" src="./assets/img/diagrams/newme_ms_payment.drawio.png"/></p>
